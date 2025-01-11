@@ -2,10 +2,8 @@
 
 This project is a **KU-Clone**, a replica of the Kurukshetra University website/portal ().
 
-## Click on the link to see..
+## Link
 [KU-Clone](https://tanish0007.github.io/KU-Clone/)
-
----
 
 ## Features
 - Created in pure CSS
